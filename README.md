@@ -22,7 +22,7 @@
 [<img align="left" alt="Yash Kadam | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="left" alt="Yash Kadam | Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />][codepen]
 
-## <br />
+<br />
 
 ---
 
@@ -58,8 +58,6 @@ No Activity tracked this Week
 
 </details>
 </p>
-
----
 
 [website]: https://www.yashkadam.cf/
 [twitter]: https://twitter.com/yashkadam278
