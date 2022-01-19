@@ -50,9 +50,6 @@ No Activity tracked this Week
 
 ---
 
-<br/>
-<br/>
-
 <p>
 <details>
   <summary>:zap: GitHub Stats</summary>
