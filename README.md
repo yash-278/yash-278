@@ -48,13 +48,14 @@ No Activity tracked this Week
 
 <br/>
 
+<p>
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-278&show_icons=true&theme=dark&locale=en" alt="yash-278" />
 
 </details>
-
+</p>
 <br/>
 
 ---
