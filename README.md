@@ -53,17 +53,13 @@ No Activity tracked this Week
 <p>
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+  <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-278&show_icons=true&theme=dark&locale=en" alt="yash-278" />
 
 </details>
 </p>
-<br/>
 
 ---
-
-<br />
-<br />
 
 [website]: https://www.yashkadam.cf/
 [twitter]: https://twitter.com/yashkadam278
