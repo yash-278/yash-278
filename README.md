@@ -44,9 +44,7 @@ No Activity tracked this Week
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-278&show_icons=true&theme=dark&locale=en&layout=compact" alt="yash-278" />
-
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-278&show_icons=true&theme=dark&locale=en" alt="yash-278" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-278&show_icons=true&theme=dark&locale=en&layout=compact" alt="yash-278" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-278&show_icons=true&theme=dark&locale=en" alt="yash-278" />
 
 <br/>
 
