@@ -29,9 +29,11 @@
 ### Weekly Development Breakdown:
 
 <!--START_SECTION:waka-->
+
 ```text
 No Activity tracked this Week
 ```
+
 <!--END_SECTION:waka-->
 
 ---
@@ -44,9 +46,11 @@ No Activity tracked this Week
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-278&show_icons=true&theme=dark&locale=en&layout=compact" alt="yash-278" /></p>
 
----
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-278&show_icons=true&theme=dark&locale=en" alt="yash-278" /></p>
+
+<br/>
+
+---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-278&theme=dark" alt="yash-278" /></p>
 
