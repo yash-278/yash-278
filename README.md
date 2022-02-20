@@ -30,8 +30,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 26 mins
-
 JavaScript   25 mins         ████████████████████████░   95.92 % 
 HTML         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 ```
