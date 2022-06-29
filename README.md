@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on Full Stack Web Development
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: [yashkadam278@gmail.com](mailto:yashkadam278@gmail.com) & [Twitter @yashkadam278](https://twitter.com/yashkadam278)
+- 📫 How to reach me: [Twitter @yashkadam278](https://twitter.com/yashkadam278)
 - ⚡ Fun fact: I love listening to Music & I watch/read - Anime/Manga
 
 ---
