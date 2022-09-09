@@ -4,8 +4,8 @@
 [![Website](https://img.shields.io/website?label=yashkadam.cf&style=for-the-badge&url=https://www.yashkadam.cf/)](https://www.yashkadam.cf/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yashkadam278?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fyash-278&screen_name=yashkadam278)
 
-## I'm a Student pursuing Masters in Computer Science !!
 
+- 🎓 Masters Degree in Computer Science.
 - 🔭 I’m currently working on improving React skills
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on Full Stack Web Development
