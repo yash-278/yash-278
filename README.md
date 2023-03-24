@@ -47,7 +47,7 @@ Other        1 hr 40 mins    █▒░░░░░░░░░░░░░░░
 ---
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-278&show_icons=true&theme=dark&locale=en&layout=compact" alt="yash-278" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-278&show_icons=true&theme=dark&locale=en&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="yash-278" />
 </p>
 
 ---
