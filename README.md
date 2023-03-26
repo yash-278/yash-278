@@ -8,8 +8,8 @@
 <!-- - 🎓 Masters Degree in Computer Science. -->
 - 🔭 I’m currently working on improving React skills
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on Full Stack Web Development
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate on Full Stack Web Development.
+- 🥅 2023 Goals: Learn more about Backend Development.
 - 📫 How to reach me: [Twitter @yashkadam278](https://twitter.com/yashkadam278)
 - ⚡ Fun fact: I love listening to Music & I watch/read - Anime/Manga
 
