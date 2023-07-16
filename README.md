@@ -49,8 +49,7 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ---
 
 <p>
-  
-  <img align="center" src="https://api.roadmap.sh/v1-badge/tall/643baae1e2725773748ebd62?variant=dark"/>
+  <a href="https://roadmap.sh" ><img style="margin:0px 10px;" align="center" src="https://api.roadmap.sh/v1-badge/wide/643baae1e2725773748ebd62?variant=dark" alt="roadmap.sh"/></a>
 </p>
 
 ---
@@ -59,8 +58,9 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 <details>
   <summary>:zap: GitHub Stats</summary>
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-278&show_icons=true&theme=dark&locale=en" alt="yash-278" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-278&show_icons=true&theme=dark&locale=en&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="yash-278" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-278&show_icons=true&theme=dark&locale=en&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="yash-278" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-278&show_icons=true&theme=dark&locale=en" alt="yash-278" />
 </details>
 </p>
 
