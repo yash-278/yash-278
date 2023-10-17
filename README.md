@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Kadam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 [![Website](https://img.shields.io/website?label=yashkadam.com&style=for-the-badge&url=https://www.yashkadam.com/)](https://www.yashkadam.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yashkadam278?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fyash-278&screen_name=yashkadam278)
