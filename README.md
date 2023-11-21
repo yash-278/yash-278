@@ -6,10 +6,10 @@
 
 
 <!-- - 🎓 Masters Degree in Computer Science. -->
-- 🔭 I’m currently working on improving React skills
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on improving Backend skills.
+- 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate on Full Stack Web Development.
-- 🥅 2023 Goals: Learn more about Backend Development.
+- 🥅 2024 Goals: Learn more about Backend Development & AWS.
 - 📫 How to reach me: [Twitter @yashkadam278](https://twitter.com/yashkadam278)
 - ⚡ Fun fact: I love listening to Music & I watch/read - Anime/Manga
 
