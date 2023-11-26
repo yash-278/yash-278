@@ -67,4 +67,3 @@ Bash         9 mins          ▒░░░░░░░░░░░░░░░░
 [website]: https://www.yashkadam.com/
 [twitter]: https://twitter.com/yashkadam278
 [instagram]: https://www.instagram.com/yash__codes
-[codepen]: https://codepen.io/yash-278
